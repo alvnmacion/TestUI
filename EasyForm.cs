@@ -14,7 +14,7 @@ namespace WinFormsApp1
     {
         public EasyForm()
         {
-            InitializeComponent();
+            InitializeComponent();u
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
